@@ -1,0 +1,27 @@
+File size: 0.015 GB
+Summary: roughly 0.2 seconds per iteration
+
+
+File size: 0.053 GB
+Summary: roughly 0.3 seconds per iteration
+
+
+File size: 0.415 GB
+Summary: roughly 3 seconds per iteration
+
+
+File size: 1.25 GB
+Summary: roughly 6 seconds per iteration
+
+
+File size: 2.5 GB
+Summary: roughly 40 seconds per iteration
+
+
+File size: 4 GB
+Summary: roughly 100 seconds per iteration
+
+
+File size: 9.24 GB
+Summary: roughly 6 minutes per iteration
+
